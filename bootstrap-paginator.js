@@ -1,6 +1,6 @@
 ﻿/*
 * paginator in Bootstrap style
-* @requires jQuery v1.2.6+, bootstrap 2, font-awesome
+* @requires jQuery, bootstrap 3
 * Usage: $('.pagination').paginator({current_page: 1, page_count: 15, button_number:5, pager_click: callback });
 *
 * Where current_page is the visible page number

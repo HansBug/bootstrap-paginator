@@ -26,7 +26,11 @@
     <script src="./assets/bootstrap-3.0.0/js/bootstrap.min.js"></script>
     <!-- Bootstrap-paginator -->
     <script src="./assets/js/bootstrap-paginator.js"></script>
-    
+    <script>
+      $(function(){
+        $('.nav #{{page.nav}}').attr('class','active');
+      });
+    </script>
   </head>
   <body>
     

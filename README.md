@@ -16,6 +16,9 @@ http://harttle.github.io/bootstrap-paginator/
 ### Usage
 
 ```html
+<!-- html element for pagination -->
+<ul class="pagination"></ul>
+
 <!-- load paginator.js -->
 <script src="./assets/bootstrap-paginator.js"></script>
 

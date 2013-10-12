@@ -8,6 +8,9 @@ subtitle: A bootstrap style paginator, implemented by javascript.
 ### HTML 代码：
 
 ```html
+<!-- html element for pagination -->
+<ul class="pagination"></ul>
+
 <!-- load paginator.js -->
 <script src="./assets/bootstrap-paginator.js"></script>
 

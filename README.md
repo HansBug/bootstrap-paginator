@@ -36,7 +36,7 @@ http://harttle.github.io/bootstrap-paginator/
 ```
 
 
-### 参数：
+### Arguments
 
 <dl class="dl-horizontal">
     <dt>current_page</dt>

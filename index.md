@@ -2,6 +2,7 @@
 layout: post
 title: Bootstrap-paginator
 subtitle: A bootstrap style paginator, implemented by javascript.
+
 ---
 
 
